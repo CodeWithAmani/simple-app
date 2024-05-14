@@ -1,4 +1,3 @@
-register-app
+simple-app-CI
 <br>
-Test93
-
+CI pipeline
